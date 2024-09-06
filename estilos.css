@@ -1,0 +1,26 @@
+body {
+    font-family: 'poppins' ;
+    margin: 0;
+    padding: 0;
+}
+
+
+p {
+    font-size: 100%;
+   }
+
+   .contenedor {
+    max-height: 60px;
+    width: auto;
+    margin: 3%;
+    text-align: center;
+    
+}
+h1 {
+    font-size: 50px;
+    margin: 0%; 
+  }
+  .menu {
+   font-size: 22px;
+   margin: 5%;
+}
